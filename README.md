@@ -8,13 +8,13 @@
 
 
 ### Dionysus 1, 2, 3
-- Person
+- Individual-Papagino: `1st, 3rd, 5th, ♭♭7, 9th`
   
 ### Sing O Muse! [4](https://abikesa.github.io/die-zauberflote/)
-- Interpersonal
+- Communication-Die Zauberflöte: `11th, 13th`
 
 ### Apollo 5, 6
-- Group
+- Group-Othello: `♭9,♯9,♯11,♭13`
 
 
 ### Dossier on Papageno
